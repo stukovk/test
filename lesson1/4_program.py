@@ -5,7 +5,7 @@
 #!/usr/bin/env python
 #!/usr/local/bin/python
 
-# Импорт модулей
+# Импорт модулей br2
 import sys
 
 def hello1():
