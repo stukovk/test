@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# Возможны еще такие варианты:
+# Возможны еще такие варианты: ddd
 #!/usr/bin/env python
 #!/usr/local/bin/python
 
